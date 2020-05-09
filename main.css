@@ -1,0 +1,25 @@
+body {
+    font-family: helvetica;
+}
+
+ul {
+    font-family: monospace;
+}
+
+li {
+    list-style: circle;
+}
+
+/*Lista*/
+
+.list {
+    list-style: square;
+}
+
+/*Paragrafo*/
+
+#date {
+    font-size: 12px;
+    font-style: italic;
+    font-family: bold;
+}
